@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Inter' !important;
+}
+
+.nav-link {
+    
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    color: #0D0A19;
+    margin-left: 20px;
+}
+.signup {
+    color: #9A9EA7;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 21px;
+}
+
+.signup img{
+    background: #F5F5F6;
+    border-radius: 10px;
+    width: 30px;
+    height: 25px;
+    padding: 5px 8px;
+    margin-right: 5px;
+}
+
+.section1 {
+    background-image: url(./Images/Rectangle.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 560px;
+    position: relative;
+}
+
+.section1 h1 {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: -0.305px;
+    padding-top: 100px;
+}
+
+.section1 p {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+.TopFooterSection p {
+    color:#9A9EA7;
+    font-size: 12px;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-left: -80px;
+}
+
+.TopFooterSection {   
+    background: #FFF;
+    box-shadow: 0px 3px 4px 0px rgba(153, 155, 168, 0.15);
+    border-radius: 8px;
+    max-width: 945px;
+    height: 80px;
+    position: absolute;
+    margin: 0px auto;
+    bottom: -40px;
+    width: 98%;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 99;
+    padding-left: 30px;
+}
+
+.form-select {
+    color: #0D0A19;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    border: none !important;
+    margin-top: -15px;
+}
+
+.withoutp {
+    margin-top: 27px;
+}
+
+.HeaderButton {
+    border-radius: 10px;
+    background: var(--7963-f-0-primary, #7963F0);
+    color: #FFF;
+    padding: 7px 15px;
+    color: var(--ffffff, #FFF);
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    
+}
+
+.HeaderButton img {
+    margin-top: -3px;
+    padding-right: 5px;
+}

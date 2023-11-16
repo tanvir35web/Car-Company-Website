@@ -1,0 +1,21 @@
+@media all and (max-width: 767px) {
+
+    .section1 h1 {
+        font-size: 30px;
+    }
+    .section1 p {
+        font-size: 14px;
+    }
+    .TopFooterSection{
+        height: 100px ;
+        box-shadow: none;
+    }
+
+    .HeaderButton{
+        width: 95%;
+    }
+    .TopFooterSection p {
+        margin-top: 10px;
+        margin-left: -335px;
+    }
+}
