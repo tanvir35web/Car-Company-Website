@@ -124,6 +124,48 @@ body {
 }
 
 .section2 {
-    margin-top: 200px;
+    margin-top: 150px;
 }
 
+.section3 h1 {
+    margin-top: 150px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 70px;
+}
+
+.section3 h5 {
+    font-size: 25px;
+    font-weight: 900px;
+    margin-top: 20px;
+    font-family: 'Inter';
+    color: #000000;
+
+}
+
+.section3 p {
+    color: #00000087;
+}
+
+.priceButton{
+    padding: 5px 18px;
+    border: none;
+    background: #7e00df27;
+    color: #2b004d;
+    border-radius: 10px;
+    margin-right: 20px;
+    font-family: 'Inter' !important;
+    font-weight: 800px;
+}
+
+.BuyButton{
+    padding: 5px 18px;
+    border: none;
+    background: #0400df27;
+    color: #2b004d;
+    border-radius: 10px;
+    margin-right: 20px;
+    font-family: 'Inter' !important;
+    font-weight: 800px;
+    margin-bottom: 20px;
+}
